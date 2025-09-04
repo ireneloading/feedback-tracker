@@ -10,3 +10,11 @@ A Streamlit app to log client feedback.
 ## How to run it
 pip install streamlit
 streamlit run feedback_tracker.py
+
+## Screenshots
+
+### Feedback Form
+![Feedback Form](Feedbacktracker1.JPG)
+
+### Dashboard
+![Dashboard](Feedbacktracker2.JPG)
