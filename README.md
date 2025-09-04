@@ -14,7 +14,7 @@ streamlit run feedback_tracker.py
 ## Screenshots
 
 ### Feedback Form
-![Feedback Form](Feedbacktracker1.JPG)
+<img src="Feedbacktracker1.JPG" alt="Feedback Form" width="500"/>
 
 ### Dashboard
-![Dashboard](Feedbacktracker2.JPG)
+<img src="Feedbacktracker2.JPG" alt="Dashboard" width="500"/>
