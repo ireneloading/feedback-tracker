@@ -8,8 +8,8 @@ A Streamlit app to log client feedback.
 - Export to CSV
 
 ## How to run it
-pip install streamlit
-streamlit run feedback_tracker.py
+- pip install streamlit
+- streamlit run feedback_tracker.py
 
 ## Screenshots
 
